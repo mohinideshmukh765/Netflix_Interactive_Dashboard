@@ -20,7 +20,7 @@ The dashboard helps analyze content distribution, trends, and patterns across Ne
 
 **Source: Kaggle**
 
-**Link: https://www.kaggle.com/datasets/shivamb/netflix-shows**
+**Link: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?**
 #
 
 ## ⚙️ Project Workflow
