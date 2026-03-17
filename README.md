@@ -55,7 +55,7 @@ The dashboard helps analyze content distribution, trends, and patterns across Ne
 **🎯 Interactive Filters (Slicers)**
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/mohinideshmukh765/Netflix_Interactive_Dashboard/blob/main/Dashboard.png)
 #
 
 ## 📚 Key Learnings
